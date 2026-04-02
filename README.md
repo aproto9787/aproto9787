@@ -32,12 +32,12 @@ building: Tools that make AI-powered development seamless
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/aproto9787/codex-bridge">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=3&v=2" height="195" width="100%" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=none&hide_border=true&bg_color=0d1117&title_color=73daca&icon_color=73daca&text_color=8b949e&description_lines_count=3&v=3" height="195" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/aproto9787/EGTSR">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=3&v=2" height="195" width="100%" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=none&hide_border=true&bg_color=0d1117&title_color=73daca&icon_color=73daca&text_color=8b949e&description_lines_count=3&v=3" height="195" width="100%" />
       </a>
     </td>
   </tr>
@@ -48,14 +48,14 @@ building: Tools that make AI-powered development seamless
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aproto9787&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=aproto9787&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aproto9787&show_icons=true&theme=none&hide_border=true&bg_color=0d1117&title_color=73daca&icon_color=bb9af7&text_color=c9d1d9&ring_color=73daca&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=aproto9787&hide_border=true&background=0d1117&ring=73daca&fire=ff9e64&currStreakNum=c9d1d9&currStreakLabel=73daca&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aproto9787&theme=github-dark&hide_border=true&bg_color=0d1117&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aproto9787&hide_border=true&bg_color=0d1117&color=73daca&line=73daca&point=bb9af7&area=true&area_color=73daca" width="98%" />
 </div>
 
 <br>

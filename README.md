@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=aproto9787&fontSize=42&fontColor=c9d1d9&fontAlignY=36&desc=Building%20AI%20Developer%20Infrastructure&descSize=16&descColor=8b949e&descAlignY=56&animation=fadeIn" width="100%" />
 
-<!--
-**aproto9787/aproto9787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+```yaml
+# ~/about.yml
+role: CS Student & AI Tooling Engineer
+focus:
+  - Claude Code Ecosystem
+  - MCP (Model Context Protocol)
+  - AI Agent Orchestration
+building: Tools that make AI-powered development seamless
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=ts,py,rust,cpp,js,react,nodejs,electron,git,linux&theme=dark" />
+
+</div>
+
+<br>
+
+### Featured Projects
+
+<div align="center">
+  <a href="https://github.com/aproto9787/codex-bridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
+  </a>
+  <a href="https://github.com/aproto9787/EGTSR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
+  </a>
+</div>
+
+<br>
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aproto9787&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=aproto9787&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aproto9787&theme=github-dark&hide_border=true&bg_color=0d1117&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" width="98%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
+</div>

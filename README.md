@@ -30,14 +30,14 @@ building: Tools that make AI-powered development seamless
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/aproto9787/codex-bridge">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=3" width="100%" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=3&v=2" height="195" width="100%" />
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/aproto9787/EGTSR">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=3" width="100%" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=github_dark&hide_border=true&bg_color=0d1117&description_lines_count=3&v=2" height="195" width="100%" />
       </a>
     </td>
   </tr>

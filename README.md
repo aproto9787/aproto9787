@@ -28,14 +28,20 @@ building: Tools that make AI-powered development seamless
 
 ### Featured Projects
 
-<div align="center">
-  <a href="https://github.com/aproto9787/codex-bridge">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
-  </a>
-  <a href="https://github.com/aproto9787/EGTSR">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/aproto9787/codex-bridge">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/aproto9787/EGTSR">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 

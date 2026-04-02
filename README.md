@@ -16,20 +16,6 @@
 
 <br>
 
-```yaml
-# ~/about.yml
-role: CS Student & AI Tooling Engineer
-working_on:
-  - codex-bridge: Multi-model agent orchestration for Claude Code
-  - EGTSR: Obligation tracking & resume safety runtime
-interests: [AI Infrastructure, Developer Tooling, Systems Programming]
-languages: [TypeScript, Python, Rust, C++]
-frameworks: [React, Node.js, Electron]
-tools: [Claude Code, MCP, Unreal Engine]
-```
-
-<br>
-
 ### Featured Projects
 
 <table align="center">

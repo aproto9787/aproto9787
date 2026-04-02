@@ -30,10 +30,10 @@ building: Tools that make AI-powered development seamless
 
 <div align="center">
   <a href="https://github.com/aproto9787/codex-bridge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
   </a>
   <a href="https://github.com/aproto9787/EGTSR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
   </a>
 </div>
 
@@ -42,7 +42,7 @@ building: Tools that make AI-powered development seamless
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aproto9787&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aproto9787&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://streak-stats.demolab.com?user=aproto9787&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%" />
 </div>
 

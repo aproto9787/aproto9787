@@ -2,27 +2,31 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=aproto9787&fontSize=42&fontColor=c9d1d9&fontAlignY=36&desc=Building%20AI%20Developer%20Infrastructure&descSize=16&descColor=8b949e&descAlignY=56&animation=fadeIn" width="100%" />
 
+  <br>
+
+  <a href="https://github.com/aproto9787">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=73DACA&center=true&vCenter=true&width=435&lines=Claude+Code+Ecosystem+Builder;AI+Agent+Orchestration;MCP+%7C+Multi-Model+Tooling" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  ![Visitors](https://komarev.com/ghpvc/?username=aproto9787&color=73daca&style=flat-square&label=visitors)
+
 </div>
+
+<br>
 
 ```yaml
 # ~/about.yml
 role: CS Student & AI Tooling Engineer
-focus:
-  - Claude Code Ecosystem
-  - MCP (Model Context Protocol)
-  - AI Agent Orchestration
-building: Tools that make AI-powered development seamless
+working_on:
+  - codex-bridge: Multi-model agent orchestration for Claude Code
+  - EGTSR: Obligation tracking & resume safety runtime
+interests: [AI Infrastructure, Developer Tooling, Systems Programming]
+languages: [TypeScript, Python, Rust, C++]
+frameworks: [React, Node.js, Electron]
+tools: [Claude Code, MCP, Unreal Engine]
 ```
-
-<br>
-
-<div align="center">
-
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=ts,py,rust,cpp,js,react,nodejs,electron,git,linux&theme=dark" />
-
-</div>
 
 <br>
 

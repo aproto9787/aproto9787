@@ -18,17 +18,17 @@
 
 ### Featured Projects
 
-<table align="center">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/aproto9787/codex-bridge">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=codex-bridge&theme=none&hide_border=true&bg_color=0d1117&title_color=73daca&icon_color=73daca&text_color=8b949e&description_lines_count=3&v=3" height="195" width="100%" />
-      </a>
+      <h3><a href="https://github.com/aproto9787/codex-bridge">codex-bridge</a></h3>
+      <p>Bridge to run Codex CLI as a Claude Code native teammate — multi-model agent orchestration for AI-powered development.</p>
+      <p><code>JavaScript</code> · <code>Claude Code</code> · <code>Codex</code> · <code>Multi-Agent</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/aproto9787/EGTSR">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aproto9787&repo=EGTSR&theme=none&hide_border=true&bg_color=0d1117&title_color=73daca&icon_color=73daca&text_color=8b949e&description_lines_count=3&v=3" height="195" width="100%" />
-      </a>
+      <h3><a href="https://github.com/aproto9787/EGTSR">EGTSR</a></h3>
+      <p>Execution-Grounded Task-State Runtime — obligation tracking, stale quarantine, and resume safety plugin for Claude Code.</p>
+      <p><code>Python</code> · <code>Claude Code</code> · <code>Agent Runtime</code></p>
     </td>
   </tr>
 </table>
@@ -38,17 +38,20 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aproto9787&show_icons=true&theme=none&hide_border=true&bg_color=0d1117&title_color=73daca&icon_color=bb9af7&text_color=c9d1d9&ring_color=73daca&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=aproto9787&hide_border=true&background=0d1117&ring=73daca&fire=ff9e64&currStreakNum=c9d1d9&currStreakLabel=73daca&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" width="49%" />
+  <img src="./assets/github-stats.svg" width="98%" alt="GitHub activity stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aproto9787&hide_border=true&bg_color=0d1117&color=73daca&line=73daca&point=bb9af7&area=true&area_color=73daca" width="98%" />
+  <img src="./assets/contribution-graph.svg" width="98%" alt="Contribution activity graph" />
 </div>
 
 <br>
+
+<sub>Stats are generated inside this repository by GitHub Actions and committed as SVG files. No personal Vercel deployment is required.</sub>
+
+<br><br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />

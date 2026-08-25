@@ -18,6 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate profile stats
         env:
@@ -32,4 +34,5 @@ jobs:
           git add assets/github-stats.svg assets/contribution-graph.svg
           git diff --cached --quiet && exit 0
           git commit -m "chore(profile): refresh stats"
-          git push
+          git pull --rebase origin main
+          git push origin main

@@ -18,40 +18,10 @@
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aproto9787/codex-bridge">codex-bridge</a></h3>
-      <p>Bridge to run Codex CLI as a Claude Code native teammate — multi-model agent orchestration for AI-powered development.</p>
-      <p><code>JavaScript</code> · <code>Claude Code</code> · <code>Codex</code> · <code>Multi-Agent</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aproto9787/EGTSR">EGTSR</a></h3>
-      <p>Execution-Grounded Task-State Runtime — obligation tracking, stale quarantine, and resume safety plugin for Claude Code.</p>
-      <p><code>Python</code> · <code>Claude Code</code> · <code>Agent Runtime</code></p>
-    </td>
-  </tr>
-</table>
+- [codex-bridge](https://github.com/aproto9787/codex-bridge)
+- [EGTSR](https://github.com/aproto9787/EGTSR)
 
 <br>
-
-### GitHub Stats
-
-<div align="center">
-  <img src="./assets/github-stats.svg" width="98%" alt="GitHub activity stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/contribution-graph.svg" width="98%" alt="Contribution activity graph" />
-</div>
-
-<br>
-
-<sub>Stats are generated inside this repository by GitHub Actions and committed as SVG files. No personal Vercel deployment is required.</sub>
-
-<br><br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
